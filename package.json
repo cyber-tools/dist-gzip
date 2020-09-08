@@ -26,5 +26,9 @@
     "ora": "^4.0.5",
     "path-exists": "^4.0.0"
   },
-  "bin": "./index.js"
+  "bin": "./index.js",
+  "repository": {
+    "type": "github.com",
+    "url": "https://github.com/cyber-tools/dist-gzip.git"
+  }
 }
